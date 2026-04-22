@@ -1,7 +1,7 @@
 
 Hi there! 👋 I'm a software engineer who loves to code 💻 🚀
 
-I am a dedicated software engineer skilled in full-stack development, creating user-friendly and scalable apps with tools like React and Node.js. I solve tough problems creatively, write clean code, and work well with teams to deliver high-quality projects. I'm always excited to learn new tech and build impactful software.
+I am a dedicated software engineer skilled in full-stack development, creating user-friendly and scalable apps with tools like React, Node.js, Flask. I solve tough problems creatively, write clean code, and work well with teams to deliver high-quality projects. I'm always excited to learn new tech and build impactful software.
 
 As a software engineer, I focus on developing scalable, user-friendly applications with clean, efficient code. I thrive on solving complex challenges and collaborating with teams to deliver impactful projects. My technical expertise includes:
 
