@@ -5,9 +5,9 @@ I am a dedicated software engineer skilled in full-stack development, creating u
 
 As a software engineer, I focus on developing scalable, user-friendly applications with clean, efficient code. I thrive on solving complex challenges and collaborating with teams to deliver impactful projects. My technical expertise includes:
 
-Languages: Python, JavaScript, TypeScript, Java
-Frameworks: React, Node.js, Django, Spring
-Tools: Git, Docker, AWS, VS Code
+Languages: Python, JavaScript, TypeScript, Java,SQL
+Frameworks: React, Node.js, Flask,
+Tools: Git, AWS, VS Code
 
 I continuously explore new technologies to create high-quality software solutions.
 
